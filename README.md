@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dmusk
-- 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning SY Computer Science
+- 👋 Hi, I’m Aadarsh
+- 👀 I’m interested in AIMl , Python , Django , C++
+- 🌱 I’m Pursuing TY Computer Science From MITAOE,Pune
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ig-aadarsh.wadile,in-Aadarsh Wadile
 
