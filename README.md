@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aadarsh
 - 👀 I’m interested in AIMl , Python , Django , C++
-- 🌱 I’m Pursuing TY Computer Science From MITAOE,Pune
+- 🌱 I’m currently in my Final Year Computer Science @ MITAOE,PUNE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ig-aadarsh.wadile,in-Aadarsh Wadile
 
