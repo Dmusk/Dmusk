@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aadarsh
-- 👀 I’m interested in AIMl , MERN Stack Dev, Python , Django , C++
+- 👀 I’m interested in C++ ,DSA , MERN Stack Dev,AIML 
 - 🌱 I’m currently in my Final Year Computer Science @ MITAOE,PUNE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ig-aadarsh.wadile,in-Aadarsh Wadile
