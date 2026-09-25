@@ -43,9 +43,10 @@ I am a **Computer Science Graduate** and **Data Engineer at Quantiphi**. I speci
 
 ## 📬 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/aarush-rutkia](https://linkedin.com)
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Portfolio:** [my-portfoli-chi.vercel.app](https://my-portfoli-chi.vercel.app/)
+- **LinkedIn:** [linkedin.com/in/aadarsh-wadile-068b36220](https://www.linkedin.com/in/aadarsh-wadile-068b36220)
+- **Instagram:** [@aadarsh.wadile](https://www.instagram.com/aadarsh.wadile)
+- **X (Twitter):** [@aadiwadile11](https://x.com/aadiwadile11)
 
 ---
 
