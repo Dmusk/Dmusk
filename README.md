@@ -6,24 +6,21 @@ I am a **Computer Science Graduate** and **Data Engineer at Quantiphi**. I speci
 
 ## 🛠️ Tech Stack & Ecosystem
 
-┌──────────────────┐    ┌──────────────────┐    ┌──────────────────┐
-│ Data Engineering │    │  Cloud Platforms │    │   AI & Web Dev   │
-├──────────────────┤    ├──────────────────┤    ├──────────────────┤
-│  Python • SQL    │    │   GCP • AWS      │    │  Generative AI   │
-│  PySpark         │    │   BigQuery       │    │  Computer Vision │
-│  Apache Airflow  │    │   Snowflake      │    │  React / Next.js │
-└──────────────────┘    └──────────────────┘    │  Node.js         │
-                                                └──────────────────┘
+### 📊 Data Engineering & Cloud
+`Python` • `SQL` • `PySpark` • `Apache Airflow` • `BigQuery` • `Snowflake` • `GCP` • `AWS`
 
+### 🤖 AI, Machine Learning & Web
+`Generative AI` • `Computer Vision` • `OpenCV` • `React.js` • `Next.js` • `Node.js` • `REST APIs`
 
-| Area | Tools & Technologies |
+<br/>
+
+| Domain | Core Technologies & Tools |
 | :--- | :--- |
-| **Languages** | Python, SQL, JavaScript / TypeScript, Shell |
-| **Data Engineering & Analytics** | PySpark, Apache Airflow, BigQuery, Snowflake, Data Warehousing, ETL/ELT Pipelines |
-| **Cloud Platforms** | Google Cloud Platform (GCP), Amazon Web Services (AWS) |
-| **AI & Computer Vision** | Generative AI, OpenCV, Computer Vision Pipelines |
-| **Full-Stack Development** | React.js, Next.js, Node.js, REST APIs |
-| **Developer Tools** | Git, Docker, CI/CD, VS Code |
+| **Data Engineering** | PySpark, Apache Airflow, ETL/ELT Pipelines, Data Warehousing |
+| **Cloud Infrastructure** | Google Cloud Platform (GCP), Amazon Web Services (AWS), BigQuery, Snowflake |
+| **Artificial Intelligence** | Generative AI, Computer Vision, OpenCV |
+| **Full-Stack Development** | React.js, Next.js, Node.js, JavaScript / TypeScript |
+| **Developer Tools** | Git, Docker, CI/CD pipelines, VS Code |
 
 ---
 
