@@ -1,4 +1,4 @@
-# Hi there, I'm Aarush Rutkia 👋
+# Hi there, I'm Aadarsh Wadile 👋
 
 I am a **Computer Science Graduate** and **Data Engineer at Quantiphi**. I specialize in building end-to-end data pipelines, cloud architectures, and intelligent software systems. My core expertise sits at the intersection of **Data Engineering, Cloud Infrastructure, Generative AI, Computer Vision, and Full-Stack Development**.
 
